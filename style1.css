@@ -1,0 +1,1130 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ 
+.header {
+    width: 100%;
+    height: 75px;
+    background-color : #222222;
+    margin: 0 auto;
+    display: flex;
+    align-items: center
+   
+    
+   
+}
+.headersimbols1 {
+    margin-left: 10%;
+    display: flex;
+    justify-content: center;
+
+
+}
+.headersimbols2 {
+    margin-left: 60%;
+    display: flex;
+    justify-content: center;
+}
+.group2 {
+    width: 44px;
+    height: 38px;
+ 
+    margin-left: 14%;
+}
+.loop {
+    width: 26px;
+    height: 26px;
+   
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.boter {
+    
+    height: 23px;
+   
+    
+}
+.manny {
+    
+    height: 23px;
+   
+    margin-left: 20px;
+}
+.basket {
+    
+    height: 28px;
+   
+    margin-left: 20px;
+}
+
+.mainSlide{
+    margin: 0 auto;
+    width: 100%;
+    height: 764px;
+    align-items: center;
+    background-image: url(smallBackground.jpg)    ;
+    display: flex;
+
+}
+.maninb {
+    width: 800px;
+    height: 760px;
+    background-image: url(maninblack.png);
+    background-size: cover;
+    
+   margin-bottom: 0px;
+ 
+    
+   
+}
+.logo {
+    margin: 0 auto;
+    width: 377px;
+    height: 93px;
+    background-image: url(Loggo.PNG);
+    background-size: cover;
+}
+
+
+   
+   
+   
+  
+ 
+
+
+
+ .first {
+ 
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+    margin-bottom: 30px;
+    margin-top: 15px;
+ }
+
+
+ .first1 {
+    margin: 0 auto;
+    width: 360px;
+    height: 260px;
+    background-size: cover;
+    background-image: url(ban1.png);
+    margin-left: 0px;
+    margin-right: 22px;
+    
+ }
+ .first2 {
+    margin: 0 auto;
+    width: 360px;
+    height: 260px;
+    background-size: cover;
+    background-image: url(ban2.png);
+    margin-left: 0px;
+    margin-right: 22px;
+ }
+.first3 {
+    margin: 0 auto;
+    width: 360px;
+    height: 260px;
+    background-size: cover;
+    background-image: url(ban3.png); 
+    margin-left: 0px;
+    margin-right: 0px;
+           
+        }
+
+         .field {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 50px;
+            margin-top: 20px;
+         
+         }
+         .field0 {
+            width: 1140px;
+            height: 180px;
+           background-size: cover;
+           background-image: url(ban4.PNG);
+
+        
+        }
+  .zagolovok {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-bottom: 100px;
+   margin-top: 50px;
+      
+  }          
+  .onesloy {
+     
+      
+    display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+    margin-bottom: 30px;
+      
+     
+      
+      
+  }
+  .tovar {
+
+      width: 360px;
+      height: 581px;
+      display: flex;
+      flex-direction: column;
+      margin-right: 19px;
+  }
+
+  .carta {
+      
+      height: 161px;
+      background-color: #F8F8F8
+      
+  }
+  .poz1 {
+      margin-top: 25px;
+  }
+  .poz2 {
+    margin-top: 10px; 
+  }
+  .poz3 {
+    margin-top: 15px;
+  }
+  .s1 {
+    
+      text-decoration: none;
+      color: black;
+      margin-top: 25px;
+      margin-bottom: 10px;
+  }
+  .s2 {
+    text-decoration: none;
+    color: #5D5D5D;
+    text-size-adjust: 14px;
+ 
+  }
+  .s2:hover {
+    text-decoration: underline;
+}
+.s3 {
+    color:   #F16D7F;
+    text-size-adjust: 16px;
+}
+.ssilka{
+	border:3px solid #FF6A6A; /*рамка*/
+    border-color: #FF6A6A;
+    color: #FF6A6A;
+	padding: 10px 10px; /*отступы внутри*/
+	text-decoration: none; /*убрать подчеркивание ссылки*/
+}
+.prebutton {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.blackblock {
+    margin: 0 auto;
+    width: 100%;
+        background-color: #222224;
+    
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+.s11{
+    text-decoration: none;
+    color: white;
+    text-size-adjust: 20px; 
+
+}
+.s22{
+    text-decoration: none;
+    color: white;
+    text-size-adjust: 14px; 
+    margin-top: 10px;
+}
+.s11:hover {
+    text-decoration: underline;
+}
+.tovar1 {
+
+    width: 360px;
+    height: 341px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.zaggy {
+    
+    justify-content: center;
+    align-items: center;
+}
+.zag {
+    
+}
+.pz11{
+   align-self: center; 
+   .pz22 {
+    align-self: center;  
+   }
+}
+.carta2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+      
+    height: 161px;
+}
+.onesloy1 {
+     
+      
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+      
+     
+      
+      
+  }
+  .poz22 {
+      width: 200px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .poz11 {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .lowban {
+    margin: 0 auto;
+    width: 100%;
+         
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: center;
+            background-image: url(photo_subscribe.jpg);
+      
+  }
+  .podval {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+     background-color: #222224;
+      width: 100%;
+      margin-bottom: 10;
+      margin-top: 10;
+      justify-content: space-around;
+      align-content: center;
+      
+
+  }
+  .copy {
+    display: flex;
+      padding-top: 20px;
+ 
+      
+      
+  }
+  .copy2 {
+    color: white;
+    text-size-adjust: 16px;
+    text-align: center;
+   
+  }
+  .tw {
+
+  }
+  .face1 {
+width: 80;
+    margin-bottom: 10px;
+    margin-left: 130px;
+display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-content: center;
+  }
+  .underface {
+      width: 359px;
+      height: 99px;
+     
+      text-align: center;
+      font-size: 20px;
+      font-style: italic;
+     
+      
+  }
+  .oface {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-content: center;
+      height: 448px;
+  }
+  .forminn {
+    
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-content: center;
+    
+  }
+
+  .forminn2 {
+    
+    width: 386px;
+    height: 170px;
+    
+     
+   }
+
+
+
+
+
+
+
+@media (max-width: 770px){
+    .header {
+        width: 100%;
+        height: 74px;
+        background-color : #222222;
+        margin: 0 auto;
+        display: flex;
+        align-items: center
+       
+        
+       
+    }
+    .headersimbols1 {
+        margin-left: 10%;
+        display: flex;
+        justify-content: center;
+    
+    
+    }
+    .headersimbols2 {
+        margin-left: 50%;
+        display: flex;
+        justify-content: center;
+    }
+    .group2 {
+        width: 44px;
+        height: 38px;
+     
+        margin-left: 14%;
+    }
+    .loop {
+        width: 26px;
+        height: 26px;
+       
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+    .boter {
+        
+        height: 23px;
+       
+        
+    }
+    .manny {
+        
+        height: 23px;
+       
+       
+    }
+    .basket {
+        
+        height: 28px;
+       
+       
+    }
+    
+    .mainSlide{
+        margin: 0 auto;
+        width: 769px;
+        height: 367px;
+        align-items: center;
+     
+        display: flex;
+      flex-direction: row;
+    
+    }
+    .maninb {
+      
+        width: 357px;
+        height: 367px;
+       margin-bottom: 0px;
+          
+       
+       background-image: url(maninblack.png);
+       background-size: cover;
+  
+  
+    
+      
+       
+       
+    }
+    .logo {
+      margin-left: 0px;
+        width: 300px;
+        height: 75px;
+        background-image: url(Loggo.PNG);
+        background-size: cover;
+    }
+   
+   
+     
+        .first {
+ 
+            display: flex;
+            justify-content: center;
+           margin-bottom: 30px;
+           margin-top: 15px;
+        }
+        
+     
+     .first1 {
+        margin: 0 auto;
+        width: 340px;
+        height: 260px;
+        background-size: cover;
+        background-image: url(ban1.png);
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 10px;
+        
+     }
+     .first2 {
+        margin: 0 auto;
+        width: 340px;
+        height: 260px;
+        background-size: cover;
+        background-image: url(ban2.png);
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 10px;
+     }
+    .first3 {
+        margin: 0 auto;
+        width: 340px;
+        height: 260px;
+        background-size: cover;
+        background-image: url(ban3.png); 
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 10px;
+               
+            }
+            .field {
+                display: flex;
+                justify-content: center;
+                margin-bottom: 50px;
+                margin-top: 20px;
+             .field0 {
+                width: 734px;
+                height: 116px;
+                background-size: cover;
+                background-image: url(ban4.PNG);
+                
+                 
+    
+               
+             }
+      .zagolovok {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       margin-bottom: 100px;
+       margin-top: 50px;
+          
+      }          
+      .onesloy {
+         
+          
+        display: flex;
+        flex-wrap: wrap;
+         justify-content: center;
+        margin-bottom: 10px;
+          
+         
+          
+          
+      }
+      .tovar {
+    
+          width: 360px;
+          height: 581px;
+          display: flex;
+          flex-direction: column;
+          margin-right: 19px;
+      }
+    
+      .carta {
+          
+          height: 161px;
+          background-color: #F8F8F8
+          
+      }
+      .poz1 {
+          margin-top: 25px;
+      }
+      .poz2 {
+        margin-top: 10px; 
+      }
+      .poz3 {
+        margin-top: 15px;
+      }
+      .s1 {
+        
+          text-decoration: none;
+          color: black;
+          margin-top: 25px;
+          margin-bottom: 10px;
+      }
+      .s2 {
+        text-decoration: none;
+        color: #5D5D5D;
+        text-size-adjust: 14px;
+     
+      }
+      .s2:hover {
+        text-decoration: underline;
+    }
+    .s3 {
+        color:   #F16D7F;
+        text-size-adjust: 16px;
+    }
+    .ssilka{
+        border:3px solid #FF6A6A; /*рамка*/
+        border-color: #FF6A6A;
+        color: #FF6A6A;
+        padding: 10px 10px; /*отступы внутри*/
+        text-decoration: none; /*убрать подчеркивание ссылки*/
+    }
+    .prebutton {
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    
+    }
+    .blackblock {
+        margin: 0 auto;
+        width: 770px;
+        height: 900px;
+        background-color: #222224;
+        
+        display: flex;
+        
+        justify-content: center;
+        
+    }
+    .s11{
+        text-decoration: none;
+        color: white;
+        text-size-adjust: 20px; 
+    
+    }
+    .s22{
+        text-decoration: none;
+        color: white;
+        text-size-adjust: 14px; 
+        margin-top: 10px;
+    }
+    .s11:hover {
+        text-decoration: underline;
+    }
+    .tovar1 {
+    
+        width: 360px;
+        height: 341px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .zaggy {
+        
+        justify-content: center;
+        align-items: center;
+    }
+    .zag {
+        
+    }
+    .pz11{
+       align-self: center; 
+       .pz22 {
+        align-self: center;  
+       }
+    }
+    .carta2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+          
+        height: 161px;
+    }
+    .onesloy1 {
+         
+          
+        display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin-bottom: 30px;
+          
+         
+          
+          
+      }
+      .poz22 {
+          width: 200px;
+        margin-top: 25px;
+        margin-bottom: 10px;
+        text-align: center;
+      }
+      .poz11 {
+        margin-top: 25px;
+        margin-bottom: 10px;
+        text-align: center;
+      }
+      .lowban {
+          display: flex;
+          flex-wrap: wrap;
+          margin: 0 auto;
+          width: 100%;
+
+         background-image: url(photo_subscribe.jpg);
+          
+      }
+      .podval {
+        margin: 0 auto;
+         background-color: #222224;
+          width: 1600px;
+          height: 79px;
+          display: flex;
+          flex-direction: row;
+          align-content: center;
+    
+      }
+      .copy {
+          color: white;
+          text-size-adjust: 16px;
+
+          
+          
+      }
+      .tw {
+   
+      }
+      
+      
+      .underface {
+          width: 359px;
+          height: 99px;
+          margin-top: 20px;
+          margin-left: 228px;
+          text-align: center;
+          font-size: 20px;
+          font-style: italic;
+         
+          
+      }
+      .oface {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .forminn {
+    margin-top: 100px;
+    margin-left: 250px;
+      }
+    }
+    
+    
+
+
+
+
+    @media (max-width: 370px){
+        .header {
+            width: 100%;
+            height: 74px;
+            background-color : #222222;
+            margin: 0 auto;
+            display: flex;
+            align-items: center
+           
+            
+           
+        }
+        .headersimbols1 {
+            margin-left: 10%;
+            display: flex;
+            justify-content: center;
+        
+        
+        }
+        .headersimbols2 {
+            margin-left: 20px;
+            display: flex;
+            justify-content: center;
+        }
+        .group2 {
+            width: 44px;
+            height: 38px;
+         
+            margin-left: 14%;
+        }
+        .loop {
+            width: 26px;
+            height: 26px;
+           
+            margin-left: 10px;
+            margin-top: 10px;
+        }
+        .boter {
+            
+            height: 23px;
+            margin-left: 150px;
+            
+        }
+        .manny {
+            display: none;
+            height: 23px;
+            margin-left: 10px;
+            
+        }
+        .basket {
+            display: none;
+            height: 28px;
+           
+            margin-left: 10px;
+        }
+        
+        .mainSlide{
+            
+            margin: 0 auto;
+            width: 769px;
+            height: 367px;
+            align-items: center;
+         
+            display: flex;
+          flex-direction: row;
+        
+        }
+        .maninb {
+            display: none;
+            width: 357px;
+            height: 367px;
+           margin-bottom: 0px;
+              
+           
+           background-image: url(maninblack.png);
+           background-size: cover;
+      
+      
+        
+          
+           
+           
+        }
+        .logo {
+          margin-left: 0px;
+            width: 300px;
+            height: 75px;
+            background-image: url(Loggo.PNG);
+            background-size: cover;
+        }
+       
+       
+         
+            .first {
+     
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+               margin-bottom: 30px;
+               margin-top: 15px;
+            }
+            
+         
+         .first1 {
+            margin: 0 auto;
+            width: 340px;
+            height: 260px;
+            background-size: cover;
+            background-image: url(ban1.png);
+            margin-left: 0px;
+            margin-right: 0px;
+            margin-bottom: 10px;
+            
+         }
+         .first2 {
+            margin: 0 auto;
+            width: 340px;
+            height: 260px;
+            background-size: cover;
+            background-image: url(ban2.png);
+            margin-left: 0px;
+            margin-right: 0px;
+            margin-bottom: 10px;
+         }
+        .first3 {
+            margin: 0 auto;
+            width: 340px;
+            height: 260px;
+            background-size: cover;
+            background-image: url(ban3.png); 
+            margin-left: 0px;
+            margin-right: 0px;
+            margin-bottom: 10px;
+                   
+                }
+                .field {
+                    display: flex;
+                    justify-content: center;
+                    margin-bottom: 30px;
+                    margin-top: 10px;
+                }
+                 .field0 {
+                    width: 360px;
+                    height: 60px;
+                    background-size: cover;
+                    background-image: url(ban4.PNG);
+                       
+                   
+                 }
+          .zagolovok {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+           margin-bottom: 100px;
+           margin-top: 50px;
+              
+          }          
+          .onesloy {
+             
+              
+            display: flex;
+            flex-wrap: wrap;
+             justify-content: center;
+            margin-bottom: 10px;
+            margin-left: 5px;  
+             
+              
+              
+          }
+          .tovar {
+        
+              width: 360px;
+              height: 581px;
+              display: flex;
+              flex-direction: column;
+              margin-right: 19px;
+          }
+        
+          .carta {
+              
+              height: 161px;
+              background-color: #F8F8F8
+              
+          }
+          .poz1 {
+              margin-top: 25px;
+          }
+          .poz2 {
+            margin-top: 10px; 
+          }
+          .poz3 {
+            margin-top: 15px;
+          }
+          .s1 {
+            
+              text-decoration: none;
+              color: black;
+              margin-top: 25px;
+              margin-bottom: 10px;
+          }
+          .s2 {
+            text-decoration: none;
+            color: #5D5D5D;
+            text-size-adjust: 14px;
+         
+          }
+          .s2:hover {
+            text-decoration: underline;
+        }
+        .s3 {
+            color:   #F16D7F;
+            text-size-adjust: 16px;
+        }
+        .ssilka{
+            border:3px solid #FF6A6A; /*рамка*/
+            border-color: #FF6A6A;
+            color: #FF6A6A;
+            padding: 10px 10px; /*отступы внутри*/
+            text-decoration: none; /*убрать подчеркивание ссылки*/
+        }
+        .prebutton {
+            display: flex;
+            justify-content: center;
+            margin-top: 50px;
+            margin-bottom: 50px;
+        
+        }
+        .blackblock {
+            margin: 0 auto;
+            width: 370px;
+            height: 900px;
+            background-color: #222224;
+            
+            display: flex;
+            
+            justify-content: center;
+            
+        }
+        .s11{
+            text-decoration: none;
+            color: white;
+            text-size-adjust: 20px; 
+        
+        }
+        .s22{
+            text-decoration: none;
+            color: white;
+            text-size-adjust: 14px; 
+            margin-top: 10px;
+        }
+        .s11:hover {
+            text-decoration: underline;
+        }
+        .tovar1 {
+        
+            width: 260px;
+            height: 341px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .zaggy {
+            
+            justify-content: center;
+            align-items: center;
+        }
+        .zag {
+            
+        }
+        .pz11{
+           align-self: center; 
+           .pz22 {
+            align-self: center;  
+           }
+        }
+        .carta2 {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+              
+            height: 161px;
+        }
+        .onesloy1 {
+             
+              
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin-bottom: 30px;
+              
+             
+              
+              
+          }
+          .poz22 {
+              width: 200px;
+            margin-top: 25px;
+            margin-bottom: 10px;
+            text-align: center;
+          }
+          .poz11 {
+            margin-top: 25px;
+            margin-bottom: 10px;
+            text-align: center;
+          }
+          .lowban {
+              display: flex;
+              flex-wrap: wrap;
+              margin: 0 auto;
+              width: 369px;
+              height: 448px;
+              background-image: url(photo_subscribe.jpg);
+              background-size: cover ;
+              justify-content: center;
+              
+          }
+          .podval {
+            margin: 0 auto;
+             background-color: #222224;
+              width: 369px;
+              height: 360px;
+              display: flex;
+              flex-direction: column;
+             justify-content: center;
+        
+          }
+          .copy {
+              color: white;
+              text-size-adjust: 16px;
+            
+              
+              
+          }
+          .tw {
+       
+          }
+          .face1 {
+           
+          }
+          .underface {
+              width: 359px;
+              height: 99px;
+              text-align: center;
+              font-size: 20px;
+              font-style: italic;
+             
+              
+          }
+          .oface {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+          }
+          .forminn {
+            display: flex;
+             align-content: center;
+             justify-content: center;
+             margin-top: 30;
+           }
+        }
+        
+        
+    
+    
+    
+    
+    
