@@ -157,7 +157,14 @@
    margin-bottom: 100px;
    margin-top: 50px;
       
-  }          
+  }  
+  .onesloy0 {
+      display: flex;
+    justify-content: center;
+    align-items: center;
+      
+      
+  }        
   .onesloy {
     max-width: 1400px; 
     
